@@ -1,0 +1,15 @@
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/bin/Debug/net8.0/CoinConverter
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/bin/Debug/net8.0/CoinConverter.deps.json
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/bin/Debug/net8.0/CoinConverter.runtimeconfig.json
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/bin/Debug/net8.0/CoinConverter.dll
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/bin/Debug/net8.0/CoinConverter.pdb
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.AssemblyInfoInputs.cache
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.AssemblyInfo.cs
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.csproj.CoreCompileInputs.cache
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.sourcelink.json
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.dll
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/refint/CoinConverter.dll
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.pdb
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/CoinConverter.genruntimeconfig.cache
+/Users/varseth/Documents/C# Projects/Coin Converter/CoinConverter/obj/Debug/net8.0/ref/CoinConverter.dll
